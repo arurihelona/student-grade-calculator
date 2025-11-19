@@ -1,4 +1,4 @@
-"Student Grade Calculator"
+**Student Grade Calculator**
 A simple and user-friendly Python program that calculates a student’s grade based on their marks.
 You can enter marks for different subjects, and the program will compute the total, percentage, and final grade.
 
